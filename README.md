@@ -1,5 +1,14 @@
 # google-form-submission
 
+https://github.com/whojarr/google-form-submission/
+
+Contact: David Hunter dhunter@digitalcreation.co.nz
+
+Copyright (C) 2021 Digital Creation Ltd
+
+For license information, see LICENSE
+
+
 ## Requires
 
 serverless framework [https://www.serverless.com/](https://www.serverless.com/)

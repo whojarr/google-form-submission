@@ -1,4 +1,12 @@
-# App Script setup to push form questions at the rest api
+# Setups
+
+[App Script](#appscript)
+
+[AWS Parameter Store](#awsssm)
+
+## <a name="appscript">App Script</a>
+
+App Script setup to push form questions at the rest api
 
 1. Open the app script editor
 
@@ -13,3 +21,9 @@
 <img src="3.png" alt="alt text" width="600"/>
 
 <img src="4.png" alt="alt text" width="600"/>
+
+## <a name="awsssm">AWS Parameter Store</a>
+
+<img src="ssm_teams_url.png" alt="alt text" width="600"/>
+
+<img src="ssm_apikey.png" alt="alt text" width="600"/>

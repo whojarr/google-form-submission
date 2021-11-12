@@ -1,10 +1,32 @@
 # Setups
 
-[App Script](#appscript)
+[Microsoft Teams - Webhook](#webhook)
 
-[AWS Parameter Store](#awsssm)
+[Google Forms - App Script](#appscript)
 
-## <a name="appscript">App Script</a>
+[AWS System Manager - Parameter Store](#awsssm)
+
+
+## <a name="webhook">Microsoft Teams - Webhook</a>
+
+* Edit the teams channel connectors
+
+<img src="teams_connectors.png" alt="alt text" width="100"/>
+
+* Search for and configure a new webhook
+
+<img src="teams_webhook_add_new.png" alt="alt text" width="400"/>
+
+* Edit an existing Webhook
+
+<img src="teams_webhook_configure_existing.png" alt="alt text" width="400"/>
+
+* Get the webhook URL
+
+<img src="teams_webhook_setting.png" alt="alt text" width="400"/>
+
+
+## <a name="appscript">Google Forms - App Script</a>
 
 App Script setup to push form questions at the rest api
 

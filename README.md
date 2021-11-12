@@ -2,13 +2,15 @@
 
 ## Requires
 
-yarn
+serverless framework [https://www.serverless.com/](https://www.serverless.com/)
 
-python 3.8
+yarn [https://classic.yarnpkg.com/en/](https://classic.yarnpkg.com/en/)
 
-poetry
+python 3.8 (i use pyenv below to meet this requirement)
 
-pyenv (option to use the version in .python-version automatically)
+poetry [https://python-poetry.org/](https://python-poetry.org/)
+
+pyenv [https://github.com/pyenv/pyenv](https://github.com/pyenv/pyenv) (option to use the version in .python-version automatically)
 
 ## local dev
 
